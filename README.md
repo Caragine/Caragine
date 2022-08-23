@@ -1,4 +1,4 @@
-Hi, My name is Adam Caragine and I recently graduated from Pace University with M.S. in Computer Science after changing fields from the sport management industry. What I lack in knowledge of software development I make up for with a strong desire to learn and improve my skills. I am currently looking to begin my career as a Software Engineer and seeking a meaningful position that will allow me to improve upon my skills in the field.
+Hi, My name is Adam Caragine and I recently graduated from Pace University with M.S. in Computer Science after changing fields from the sport management industry. I am currently looking to begin my career as a Software Engineer and seeking a meaningful position that will allow me to improve upon my skills in the field.
 
 <!---
 Caragine/Caragine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
